@@ -16,3 +16,5 @@ Note: This will create a .o (out) file.
 
 Linker:
 `ld -s -o <asmFile> <asmFile.o>`
+
+# How Does it Work?
