@@ -11,6 +11,7 @@ Done! This will include your `nasm` assembler and `ld` linker for creating execu
 
 Assemble:
 `nasm -f elf64 <asmFile.s>`
+
 Note: This will create a .o (out) file.
 
 Linker:
